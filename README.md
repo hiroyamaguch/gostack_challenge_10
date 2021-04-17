@@ -5,7 +5,9 @@ Diretório do projeto original nest [link](https://github.com/rocketseat-educati
 Este é o front-end mobile desenvolvido para o desafio GoRestaurant Mobile do curso GoStack da Rocketseat. O front-end web dessa aplicação está disponível [aqui](https://github.com/hiroyamaguch/gostack_challenge_9).
 
 ## Layout mobile
-![Mobile 1](https://github.com/hiroyamaguch/assets/blob/ff7dfb694e14b6304256cc2fd77d4f499452426d/challenge7/mobile1.jpg) ![Mobile 1](https://github.com/hiroyamaguch/assets/blob/ff7dfb694e14b6304256cc2fd77d4f499452426d/challenge7/mobile2.jpg)
+![Mobile 1](https://github.com/hiroyamaguch/assets/blob/19975a853f6b95d7fb83c9415d3d83f9fb4711db/challenge10/mobile1.jpg) ![Mobile 2](https://github.com/hiroyamaguch/assets/blob/19975a853f6b95d7fb83c9415d3d83f9fb4711db/challenge10/mobile2.jpg) ![Mobile 3](https://github.com/hiroyamaguch/assets/blob/19975a853f6b95d7fb83c9415d3d83f9fb4711db/challenge10/mobile3.jpg)
+
+![Mobile 4](https://github.com/hiroyamaguch/assets/blob/19975a853f6b95d7fb83c9415d3d83f9fb4711db/challenge10/mobile4.jpg) ![Mobile 5](https://github.com/hiroyamaguch/assets/blob/19975a853f6b95d7fb83c9415d3d83f9fb4711db/challenge10/mobile5.jpg)
 
 # Tecnologias utilizadas
 - HTML / CSS / JS / TypeScript
