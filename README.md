@@ -15,9 +15,11 @@ Este é o front-end mobile desenvolvido para o desafio GoRestaurant Mobile do cu
 - [Axios](https://github.com/axios/axios)
 - [Eslint](https://eslint.org/)
 - [Styled Components](https://styled-components.com/)
+- [Json Server](https://github.com/typicode/json-server)
+- [Jest](https://jestjs.io/pt-BR/)
 
 # Como executar o projeto
-Pré-requisitos: npm / yarn
+Pré-requisitos: npm / yarn / emuladores ou dispositivos android e ios
 
 ```bash
 # Clone este repositório
@@ -35,6 +37,16 @@ $ npm install
 $ yarn server
 # ou
 $ npm run server
+
+# Execute o projeto no Android
+$ yarn android
+# ou
+$ npm run android
+
+# Execute o projeto no IOS
+$ yarn ios
+# ou
+$ npm run ios
 
 # Execute o projeto
 $ yarn start
